@@ -28,7 +28,9 @@ The automation workflow performs the following steps:
 ![Customer Service Automation Workflow](assets/customer-service-workflow.jpeg)
 
 ## 🎥 Demo Video
-(Added below)
+▶️ Watch the working demo of the Customer Service Automation System:
+
+🔗 [Watch Demo Video on Google Drive](https://drive.google.com/file/d/1DhhKDZAuWMuKFA5GQ7oEx-z6X7FEsYIJ/view?usp=sharing)
 
 ## 👩‍💻 Author
 Shaily Prasad
