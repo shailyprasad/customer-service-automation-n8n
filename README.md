@@ -25,7 +25,7 @@ The automation workflow performs the following steps:
 - Small business customer service automation
 
 ## 📸 Workflow Preview
-(Added below)
+![Customer Service Automation Workflow](assets/customer-service-workflow.jpeg)
 
 ## 🎥 Demo Video
 (Added below)
